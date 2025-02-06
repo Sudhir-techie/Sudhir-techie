@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sudhir-techie
 - 👀 I’m interested in Cloud Services
-- 🌱 I’m currently learning System Administration
+- 🌱 I’m currently learning Ethical hacking
 - 💞️ I’m looking to collaborate on Cloud projects
 
 <!---
